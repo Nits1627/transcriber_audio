@@ -1,0 +1,12 @@
+streamlit==1.41.1
+faster-whisper==1.1.0
+pandas==2.2.3
+python-docx==1.1.2
+noisereduce==3.0.2
+librosa==0.10.2
+soundfile==0.12.1
+scipy==1.13.1
+numpy==1.26.4
+pyannote.audio==3.1.1
+torch>=2.0.0
+torchaudio>=2.0.0
